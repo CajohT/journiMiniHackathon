@@ -1,11 +1,50 @@
+back-ground 
 .question {
   background-color: white;
   color: black;
-  padding-top: 20px;
+  padding-top: 50px;
   padding-right: 20px;
   padding-bottom: 20px; 
   padding-left: 20px;  
+  margin-top: 50px;
+  font-family: 'Niconne', cursive;
+
+}
+.title{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 img {
   float: left;
 } 
+.hhair{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Niconne', cursive;
+}
+.mhair{
+    margin-top: 170px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Niconne', cursive;
+}
+.lhair{
+    margin-top: 133px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Niconne', cursive;
+}
+.cup{
+    margin-top: 110px;
+    padding-top: 90px; 
+    text-align: center;
+    font-family: 'Niconne', cursive;
+}
+.p4{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Niconne', cursive;
+}
