@@ -10,8 +10,7 @@ back-ground
 }
 .title{
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    
 }
 img {
   float: left;
@@ -22,7 +21,7 @@ img {
     font-family: 'Niconne', cursive;
 }
 .mhair{
-    margin-top: 170px;
+    margin-top: 160px;
     padding-top: 20px;
     padding-left: 50px;
     padding-right: 50px;
